@@ -346,6 +346,7 @@ header {
     font-family: 'Times New Roman', Times, serif;
     font-weight: 400;
     animation: slide2 2s ease-in forwards;
+    margin-black-end: 10px;
 }
 
 .icon-about {
