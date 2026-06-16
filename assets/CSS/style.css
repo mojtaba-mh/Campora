@@ -344,7 +344,6 @@ header {
     font-family: 'Times New Roman', Times, serif;
     font-weight: 400;
     animation: slide2 2s ease-in forwards;
-    margin-black-end: 10px;
 }
 
 .icon-about {
@@ -914,6 +913,10 @@ footer {
 
     .about-carts {
         grid-template-columns: repeat(4, 1fr);
+    }
+
+    .about-cart{
+        margin-black-end: 10px;
     }
 
     #reviews-section {
