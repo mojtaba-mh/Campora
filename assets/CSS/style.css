@@ -91,7 +91,6 @@ header {
     align-items: flex-start;
     height: auto;
     margin: 0;
-    content-visibility: auto;
 }
 
 .video-nature {
@@ -250,7 +249,6 @@ header {
     align-items: start;
     margin-block-start: 20px;
     opacity: 0;
-    content-visibility: auto;
 }
 
 .texts-camp {
