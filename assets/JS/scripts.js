@@ -3,7 +3,7 @@ window.addEventListener('load', ()=>{
         const loading = document.querySelector(".loader-wrapper");
         loading.classList.add("dis-none")
         document.body.classList.remove("loading");
-    }, 2000);
+    }, 1000);
 });
 
 const card = document.getElementById('card');
