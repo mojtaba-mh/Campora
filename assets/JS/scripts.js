@@ -1,3 +1,11 @@
+window.addEventListener('load', ()=>{
+    setTimeout(()=>{
+        const loading = document.querySelector(".loader-wrapper");
+        loading.classList.add("dis-none")
+        document.body.classList.remove("loading");
+    }, 1000);
+});
+
 const card = document.getElementById('card');
 
 card.addEventListener('mousemove', (e) => {
