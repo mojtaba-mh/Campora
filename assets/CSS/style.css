@@ -25,6 +25,11 @@ body.loading footer {
     visibility: hidden;
     opacity: 0;
     overflow: hidden;
+    position: fixed;
+    top: 0;
+    left:0;
+    height: 30dvh;
+    margin: 0;
 }
 
 .loader-wrapper {
@@ -1199,7 +1204,7 @@ footer {
         width: 350px;
         height: 350px;
         font-size: 3rem;
-        margin-block-start: 20%;
+        margin-block-start: 15%;
     }
 
     .img-logo {
